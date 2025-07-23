@@ -1,7 +1,7 @@
 # 📀 XplicitRecAI
 
-**The Ultimate AI-Powered Chaturbate Recorder**  
-Auto-record. Auto-cut. Auto-money.
+**The Ultimate AI-Powered Chaturbate and Stripchat Recorder**  
+Auto-record. Auto-cut.
 
 ![XplicitRecAI Recording Module](https://www.xplicitrecai.com/assets/images/recording/recording-module-1030.png)
 ![XplicitRecAI Cutting Module](https://www.xplicitrecai.com/assets/images/cutting/cutting-module-3190.png)
@@ -10,15 +10,15 @@ Auto-record. Auto-cut. Auto-money.
 
 ## 🎯 What Is XplicitRecAI?
 
-**XplicitRecAI** is a powerful desktop application that automatically records, detects, and edits Chaturbate streams using AI-powered object recognition. It's built for power users, content collectors, clip creators, and privacy-focused automation fans.
+**XplicitRecAI** is a powerful desktop application that automatically records, detects, and edits Chaturbate and Stripchat streams using AI-powered object recognition. It's built for power users, content collectors, clip creators, and privacy-focused automation fans.
 
-> 📌 No logins. No accounts. No tracking. Just pure performance and control.
+> 📌 No logins. No accounts. No tracking.
 
 ---
 
 ## ✨ Features
 
-- 🤖 **AI-Powered “Bate” Detection**  
+- 🤖 **AI-Powered "Bate" Detection**  
   Automatically captures hot scenes—no more scrubbing 3-hour replays.
 
 - ✂️ **Automatic Cutting & Merging**  
@@ -34,7 +34,7 @@ Auto-record. Auto-cut. Auto-money.
   Supports advanced GPU acceleration, threading, network limits, and more.
 
 - 🧠 **Custom Model Support**  
-  Train your own detection model using Class 0 = “ussy”, Class 1 = “ating”.
+  Train your own detection model using Class 0 = "*ussy", Class 1 = "*ating".
 
 - 🔐 **Privacy First**  
   No accounts, no cloud, no tracking. Your unique Fingerprint ID handles licensing.
@@ -102,6 +102,7 @@ Open an issue or contact us at [xplicitrecai@proton.me](mailto:xplicitrecai@prot
 ## 📣 Stay Updated
 
 - 🔗 [Official Website](https://www.xplicitrecai.com)
+- 🐦 [𝕏 (Twitter)](https://x.com/yourusername) 
 - 🧠 [Discord](https://discord.gg/GeeGQyKybS)
 - 📥 Contact for support or setup help: **xplicitrecai@proton.me**
 
@@ -114,4 +115,4 @@ Contact the developer for licensing terms.
 
 ---
 
-> **“Catch the action. Cut the crap. Let AI do the watching.”**
+> **"Catch the action. Cut the crap. Let AI do the watching."**
