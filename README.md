@@ -78,11 +78,11 @@ Auto-record. Auto-cut.
 
 | Duration | Price | Discount |
 |----------|--------|----------|
-| 1 Month | $20 | – |
-| 3 Months | $56 | 6% off |
-| 6 Months | $106 | 12% off |
-| 12 Months | $182 | 24% off |
-| 24 Months | $250 | 48% off |
+| 1 Month | $10 | – |
+| 3 Months | $29 | 3% off |
+| 6 Months | $56 | 6% off |
+| 12 Months | $106 | 12% off |
+| 24 Months | $182 | 24% off |
 
 💰 **Accepted Payments**:  
 Bitcoin (BTC), Ethereum (ETH), Solana (SOL), Dogecoin (DOGE), Polygon (POL), and more.
@@ -102,7 +102,7 @@ Open an issue or contact us at [xplicitrecai@proton.me](mailto:xplicitrecai@prot
 ## 📣 Stay Updated
 
 - 🔗 [Official Website](https://www.xplicitrecai.com)
-- 🐦 [𝕏 (Twitter)](https://x.com/yourusername) 
+- 🐦 [𝕏 (Twitter)](https://x.com/XplicitRecAI) 
 - 🧠 [Discord](https://discord.gg/GeeGQyKybS)
 - 📥 Contact for support or setup help: **xplicitrecai@proton.me**
 
