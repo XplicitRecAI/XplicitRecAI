@@ -78,6 +78,7 @@ Auto-record. Auto-cut.
 
 | Duration | Price | Discount |
 |----------|--------|----------|
+| 7 Days | Free | – |
 | 1 Month | $10 | – |
 | 3 Months | $29 | 3% off |
 | 6 Months | $56 | 6% off |
